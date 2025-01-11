@@ -4,9 +4,15 @@
     font-weight: 100;
     font-style: normal;
 }
+marquee{
+    color: rgb(250, 5, 25);
+    font-size: 15px;
+    font-weight: bold;
+
+}
 body{
-    margin-left: 160px;
-    margin-right: 160px;
+   margin-left: 130px;
+   margin-right: 130px;
     background-color: rgba(241, 241, 243, 1);
 }
 nav{
@@ -280,4 +286,7 @@ form{
 .finisher{
     text-align: center;
     margin-top: 80px;
+}
+.copy{
+    text-align: center;
 }
